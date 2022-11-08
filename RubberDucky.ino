@@ -234,3 +234,4 @@ void loop()
     //not needed, script will execute only once!
 }
 //made by: Kristiyan Aleksiev
+//support from Seytonic BadUSB code

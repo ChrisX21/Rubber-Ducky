@@ -1,5 +1,5 @@
 # Rubber-Ducky
-Arduino Pro Micro based hacking device, used to run scripts on plug in. Created and made by: Kristiyan Aleksiev
+Arduino Pro Micro based hacking device, used to run scripts on plug in. Created and made by: Kristiyan Aleksiev with the support from Seytonic BadUSB code.
 
 
 This device can be used to run scripts when plugged into a computer running Windows 10.
