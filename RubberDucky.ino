@@ -75,7 +75,6 @@ void Line(String l)
     int delaytime = l.substring(space_1 + 1).toInt();
     delay(delaytime);
   }
-  else if(l.substring(0,space_1) == "REM"){}
   else
   {
       String remain = l;
