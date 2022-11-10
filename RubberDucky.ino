@@ -12,7 +12,7 @@ void setup()
     //check dip switches
 	if (digitalRead(5) == LOW)
     {
-        dip += "1";
+        dip += 1;
     }
     else
     {
